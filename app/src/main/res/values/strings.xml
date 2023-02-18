@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UserDetails</string>
+    <string name="enter_your_name">Enter your name</string>
+
+    <string name="xxxxxxxxxxxxxxxxxx">xxxxxxxxxxxxxxxxxx</string>
+    <string name="enter_your_class">Enter Your Class</string>
+    <string name="about_you">About You</string>
+    <string name="xxxxxxxxxxxxxxxxx">xxxxxxxxxxxxxxxxx</string>
+    <string name="confrim">Confrim</string>
+    <string name="your_name_is">Your Name is</string>
+    <string name="xxx">xxx</string>
+    <string name="your_class_is">Your Class is</string>
+    <string name="your_about_is">Your About is</string>
+    <string name="enter_your_class_name">Enter Your Class Name</string>
+</resources>
